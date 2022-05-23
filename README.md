@@ -1,4 +1,4 @@
-### Hi there, I'm Areeb <img width="30" src="https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/simple_smile.png" />
+### Hi there, I'm Abbas <img width="30" src="https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/simple_smile.png" />
 
 <!-- [![Website](https://img.shields.io/website?label=mansoorrajput.com&style=for-the-badge&url=https%3A%2F%2Fmansoorrajput.com)][website]
  -->
@@ -21,8 +21,8 @@ I am a Fullstack developer,
 ### Connect with me:
 
 
-[<img align="left" alt="Muhammad Areeb | Facebook" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png?1450319443" />][facebook]
-[<img align="left" alt="Muhammad Areeb | LinkedIn" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
+[<img align="left" alt="Abbas | Facebook" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png?1450319443" />][facebook]
+[<img align="left" alt="Abbas | LinkedIn" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
 
 <!-- [<img align="left" alt="hussainmansoor876 | Fiverr" height="40px" width="40px" src="https://i.postimg.cc/Cx9YMWKn/9c8eb5d61723c4d763fd66b0d856f9c3.jpg" />][fiverr] -->
 
@@ -32,14 +32,14 @@ I am a Fullstack developer,
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- ![Mansoor's github stats](https://github-readme-stats.vercel.app/api?username=Areeb-dev&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)
+ ![Abbas github stats](https://github-readme-stats.vercel.app/api?username=mohammadabbas3&count_private=true&hide_border=true&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)
  
  
-  ![Areeb's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb-dev&hide=css,html&show_icons=true&hide_border=true)
+  ![Areeb's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadabbas3&hide=css,html&show_icons=true&hide_border=true)
  
  
  
 </details>
 
-[facebook]: https://www.facebook.com/muhammad.areebbali
-[linkedin]: https://www.linkedin.com/in/areeb-dev/
+[facebook]: https://www.facebook.com/mohammad.abbas.378537
+[linkedin]: https://www.linkedin.com/in/mohammed-abbas-303761200
