@@ -32,10 +32,10 @@ I am a Fullstack developer,
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- ![Abbas github stats](https://github-readme-stats.vercel.app/api?username=mohammadabbas3&count_private=true&hide_border=false&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)
+ ![Abbas github stats](https://github-readme-stats.vercel.app/api?username=mohammadabbas3&count_private=true&hide_border=false&theme=radical&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)
  
  
-  ![Abbas's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadabbas3&hide=css,html&show_icons=true&hide_border=true)
+  ![Abbas's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadabbas3&theme=radical&hide=css,html&show_icons=true&hide_border=true)
  
  
  
