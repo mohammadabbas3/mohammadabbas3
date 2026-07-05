@@ -45,13 +45,3 @@ End-to-end AI automation with **n8n** — voice agents, lead auto-calling, AI ch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-abbas-303761200)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.abbas345.ma@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohammad.abbas.378537)
-
-## 📊 GitHub Stats
-
-<details>
-  <summary>⚡ Click to expand</summary>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadabbas3&count_private=true&hide_border=false&theme=radical&custom_title=My%20Github%20Stats&show_icons=true&hide=stars" alt="Abbas's GitHub stats"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadabbas3&theme=radical&hide=css,html&show_icons=true&hide_border=true" alt="Abbas's top languages"/>
-</details>
