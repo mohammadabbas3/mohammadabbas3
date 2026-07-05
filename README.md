@@ -1,45 +1,57 @@
-### Hi there, I'm Abbas <img width="30" src="https://www.webfx.com/wp-content/themes/fx/assets/img/tools/emoji-cheat-sheet/graphics/emojis/simple_smile.png" />
+# Hi there, I'm Abbas 👋
 
-<!-- [![Website](https://img.shields.io/website?label=mansoorrajput.com&style=for-the-badge&url=https%3A%2F%2Fmansoorrajput.com)][website]
- -->
+**Senior Full Stack Developer** with 4+ years building and shipping production SaaS platforms for international clients.
 
-I am a Fullstack developer, 
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1590587834/9224/workflow.png?1590587834" /> I’m currently working on something amazing!
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1492722365/2086/reading.gif" /> I’m always learning something new and amazing
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1594314885/9662/fbwow.gif?1594314885" />  fun fact: Coding is not my job its my hobby and i love doing it. 
+- 🔭 Currently building AI automation workflows — voice agents, chatbots, RAG systems — at **Neptunes Tech**
+- 🚀 Shipped live platforms for sports facility booking, marketplaces, and lead automation used by real clients
+- 💳 Hands-on with payment integrations: Stripe, Mollie, and Rabobank
+- 🌱 Always learning something new — currently deep in LLMs, RAG, and AI agents
 
-### TECHNOLOGIES I USE OR CODE WITH:
+## 🛠️ Technologies I Use
 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>  <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/> 
+**Languages & Frameworks**
 
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
+**Databases**
 
----
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
 
+**AI & Automation**
 
- <br/>
-### Connect with me:
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-5A29E4?style=for-the-badge"/> <img src="https://img.shields.io/badge/VAPI-00C853?style=for-the-badge"/>
 
+**Payments & Integrations**
 
-[<img align="left" alt="Abbas | Facebook" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png?1450319443" />][facebook]
-[<img align="left" alt="Abbas | LinkedIn" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin]
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/Mollie-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Rabobank-FF6600?style=for-the-badge"/> <img src="https://img.shields.io/badge/SendGrid-51A9E3?style=for-the-badge"/>
 
-<!-- [<img align="left" alt="hussainmansoor876 | Fiverr" height="40px" width="40px" src="https://i.postimg.cc/Cx9YMWKn/9c8eb5d61723c4d763fd66b0d856f9c3.jpg" />][fiverr] -->
+**Tools & Cloud**
 
-<br />
-<br/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+
+## 🚀 Featured Projects
+
+### 🎾 Courts4U — Booking & Facility Management Platform
+Live multi-role sports facility management platform used by a real client managing multiple facilities. Advanced booking and availability controls for padel, tennis, and badminton — time slots, member access, invoices, vouchers, and multi-user roles. Integrated **Rabobank** and **Mollie** payments for online booking.
+
+### 🚲 Bike Marketplace & Reservation Platform
+Multi-country bike marketplace with 10,000+ listings scraped from dealer websites across the Netherlands, Belgium, the UK, and Germany. Built listing management, reservation slots, and embeddable booking widgets with **Rabobank** and **Mollie** payment integration.
+
+### 🤖 AI Automation for The Myles Group
+End-to-end AI automation with **n8n** — voice agents, lead auto-calling, AI chat assistants, automated email replies, RAG, and WhatsApp automation. Reduced response time by **70%** across voice, email, and messaging channels.
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-abbas-303761200)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.abbas345.ma@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohammad.abbas.378537)
+
+## 📊 GitHub Stats
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
- ![Abbas github stats](https://github-readme-stats.vercel.app/api?username=mohammadabbas3&count_private=true&hide_border=false&theme=radical&custom_title=My%20Github%20Stats&show_icons=true&hide=stars)
- 
- 
-  ![Abbas's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadabbas3&theme=radical&hide=css,html&show_icons=true&hide_border=true)
- 
- 
- 
+  <summary>⚡ Click to expand</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadabbas3&count_private=true&hide_border=false&theme=radical&custom_title=My%20Github%20Stats&show_icons=true&hide=stars" alt="Abbas's GitHub stats"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadabbas3&theme=radical&hide=css,html&show_icons=true&hide_border=true" alt="Abbas's top languages"/>
 </details>
-
-[facebook]: https://www.facebook.com/mohammad.abbas.378537
-[linkedin]: https://www.linkedin.com/in/mohammed-abbas-303761200
